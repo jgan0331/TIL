@@ -15,7 +15,8 @@ https://kim-oriental.tistory.com/20
 ### 오류 2
 Get 요청시 아래와 같은 오류가 뜬다.
 
-```2023-02-10T23:36:39.304+09:00[0;39m [32m INFO[0;39m [35m39600[0;39m [2m---[0;39m [2m[nio-8080-exec-4][0;39m [36morg.apache.tomcat.util.http.Parameters  [0;39m [2m:[0;39m Character decoding failed. Parameter [name] with value [Ann%] has been ignored. Note that the name and value quoted here may be corrupted due to the failed decoding. Use debug level logging to see the original, non-corrupted values.
+```
+2023-02-10T23:36:39.304+09:00[0;39m [32m INFO[0;39m [35m39600[0;39m [2m---[0;39m [2m[nio-8080-exec-4][0;39m [36morg.apache.tomcat.util.http.Parameters  [0;39m [2m:[0;39m Character decoding failed. Parameter [name] with value [Ann%] has been ignored. Note that the name and value quoted here may be corrupted due to the failed decoding. Use debug level logging to see the original, non-corrupted values.
  Note: further occurrences of Parameter errors will be logged at DEBUG level.
 ```
 
