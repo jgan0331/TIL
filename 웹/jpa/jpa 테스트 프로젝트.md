@@ -1,5 +1,7 @@
 ## JPA 테스트 프로젝트 생성
 
+2023-02-11 12:15 jgan
+
 https://kim-oriental.tistory.com/20
 
 위 글 따라서 프로젝트 생성해서 사용해보는 중
